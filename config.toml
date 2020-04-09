@@ -27,8 +27,8 @@ disqusShortname = ""
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Lednerb"
-  description = "Bilberry Premium Theme for Hugo."
+  author = "Wesvi"
+  description = ""
   keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
 
   # How many articles should be displayed at once?
@@ -56,7 +56,7 @@ disqusShortname = ""
     subtitle = ""
 
     # if you want to use gravatar for the header image
-    gravatarEMail = "code@lednerb.de"
+    gravatarEMail = "sctengxin@gmail.com"
 
     # set an path to the image file you want to use | overwrites gravatar
     customImage = ""
@@ -117,12 +117,12 @@ disqusShortname = ""
     ]
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
+    copyrightBy = "by Wesvi"
     copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2017"
-    copyrightUrl = "https://github.com/Lednerb"
+    copyrightYearOverride = "2019"
+    copyrightUrl = "/"
     creditsText = "Bilberry Hugo Theme"
-    creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
+    creditsUrl = "https://github.com/wesvi/blog"
 
 
 # customize your available languages for your multi-langual site

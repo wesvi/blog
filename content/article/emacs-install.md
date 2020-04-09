@@ -5,9 +5,11 @@ date: 2019-02-24 00:02:29
 tags: [emacs]
 categories: [programming]
 description: "Emacs安装配置"
-noSummary: true
+draft: false
 
 ---
+
+<!--more-->
 
 # Emacs安装配置
 

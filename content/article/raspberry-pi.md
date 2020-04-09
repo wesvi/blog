@@ -5,9 +5,11 @@ date: 2019-03-01 19:37:38
 tags: [raspberry]
 categories: [hardware]
 description: "树莓派安装使用"
-noSummary: true
+draft: false
 
 ---
+
+<!--more-->
 
 # 树莓派使用
 
